@@ -10,11 +10,14 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   
 ## Clinical Translation
 
+[![CTV News](https://img.youtube.com/vi/ABCDEFG1234/0.jpg)](https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/#:~:text=Aaron%20Fenster%2C%20a%20professor%20at%20Schulich%20and,researchers%20found%20that%20this%20new%20system%20could)
+
 ## Project 1: 3DLIVUS system development
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="1200">
-  <em>Figure 1. (a) Overview of the 3DLIVUS system.</em>
+  <br>
+  <em>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</em>
 </div>
 
 ## Project 2: Patient trial on 3D US acquisition

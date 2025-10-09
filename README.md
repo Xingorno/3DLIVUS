@@ -11,7 +11,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 ## Clinical Translation
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank">
+  <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
          alt="CTV News - 3DLIVUS Demonstration" 
          width="80%">
@@ -21,7 +21,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 </p>
 
 <p align="center">
-  <a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/#:~:text=Aaron%20Fenster%2C%20a%20professor%20at%20Schulich%20and,researchers%20found%20that%20this%20new%20system%20could" target="_blank">
+  <a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/#:~:text=Aaron%20Fenster%2C%20a%20professor%20at%20Schulich%20and,researchers%20found%20that%20this%20new%20system%20could" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DLIVUS_demonstration_Cool.png" 
          alt="CTV News - 3DLIVUS Demonstration" 
          width="80%">

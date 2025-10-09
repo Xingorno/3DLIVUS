@@ -9,8 +9,9 @@
 This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
   
 ## Clinical Translation
+[![CTV News](figs/3DLIVUS_CTV_demonstration_Cool.png)](https://www.youtube.com/watch?v=rgaihhQIr80)
 
-[![CTV News](https://img.youtube.com/vi/ABCDEFG1234/0.jpg)](https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/#:~:text=Aaron%20Fenster%2C%20a%20professor%20at%20Schulich%20and,researchers%20found%20that%20this%20new%20system%20could)
+[![CTV News](figs/3DLIVUS_demonstration_Cool.png)](https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/#:~:text=Aaron%20Fenster%2C%20a%20professor%20at%20Schulich%20and,researchers%20found%20that%20this%20new%20system%20could)
 
 ## Project 1: 3DLIVUS system development
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>

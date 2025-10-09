@@ -13,7 +13,8 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 ## Project 1: 3DLIVUS system development
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
 <div align="center">
-  <img src="figs/3DLIVUS system" alt="3DLIVUS system" width="1200">
+  <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="1200">
+  <em>Figure 1. (a) Overview of the 3DLIVUS system.</em>
 </div>
 
 ## Project 2: Patient trial on 3D US acquisition

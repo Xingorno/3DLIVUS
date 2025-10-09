@@ -10,6 +10,13 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   
 ## Clinical Translation
 
+<a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Link1-CTV news-green" alt="Link1">
+</a>
+<a href="https://www.schulich.uwo.ca/about/news/2023/january/lawson_3d_ultrasound.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Link2-Schulich School of Medicine & Dentistry-green" alt="Link2">
+</a>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
@@ -17,7 +24,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
          width="80%">
   </a>
   <br>
-  <em>🎬 Watch the 3DLIVUS system demonstration featured on CTV News.</em>
+  <em>🎬 Watch the 3DLIVUS system demonstration featured on CTV News (Jan 27, 2023).</em>
 </p>
 
 <p align="center">
@@ -27,11 +34,11 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
          width="80%">
   </a>
   <br>
-  <em>🎬 Watch the 3DLIVUS system demonstration featured on Schulich School of Medicine & Medicine.</em>
+  <em>🎬 Watch the 3DLIVUS system demonstration featured on Schulich School of Medicine & Medicine (Jan., 2023).</em>
 </p>
 
 
-## Project 1: 3DLIVUS system development
+## Project 1: 3DLIVUS system overview
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="1200">
@@ -40,6 +47,17 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 </div>
 
 ## Project 2: Patient trial on 3D US acquisition
+### How does 3DLIVUS acquire images during the procedure?
+<p align="center">
+  <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
+    <img src="figs/3DLIVUS_demonstration_Cool.png" 
+         alt="CTV News - 3DLIVUS Demonstration" 
+         width="80%">
+  </a>
+  <br>
+  <em>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</em>
+</p>
+
 
 
 ## Project 3: Intra-procedural Tumour Coverage Assessment

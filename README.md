@@ -66,7 +66,13 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 
 ## Project 1: 3DLIVUS System
-<a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related work">
+  <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch">
+    <img src="https://img.shields.io/badge/Calibration-Robotic_Arm-green" alt="Arm Calibration">
+  </a>
+</p>
 
 <p align="justify">
 The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</strong> with encoders and electromechanical locks, <strong>a motor-driven 3D US scanner</strong> mounted at the arm end, and <strong>a workstation</strong> with customized software. It interfaces with any commercial US machine and uses joint encoders in the mechatronic arm for pose tracking, eliminating susceptibility to clinical environmental factors. Operating passively, it allows users to freely maneuver the US transducer while also supporting automated motion along predefined trajectories—60° tilting around the X-axis, 60 mm translation along the Z-axis, and rotation–translation hybrid.
@@ -98,7 +104,7 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 </div>
 
 ## Project 3: Intra-procedural Tumour Coverage Assessment
-<a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Project-green" alt="Project Page"></a>
+<a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 <a href="https://ieeexplore.ieee.org/abstract/document/9800921" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Paper-Tumour Coverage Assessment-blue" alt="Publication">
 </a>

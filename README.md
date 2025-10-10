@@ -67,6 +67,9 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 ## Project 1: 3DLIVUS System
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
+
+<p align="justify" >As shown below, our 3DLIVUS system comprises a counterbalanced arm equipped with encoders and electromechanical locks in the joints, a motor-driven 3D US scanner mounted at the arm end, and a workstation. This 3DLIVUS system can accommodate and be interfaced to any commercial US machine with a US transducer suitable for liver imaging. Unlike external spatial trackers, our mechatronic system relies on joint encoders in the mechatronic arm to track the arm pose, which is not susceptible to clinical environmental conditions. This system operates passively, enabling users to freely maneuver the US transducer according to procedural requirements. Additionally, the 3D US scanner can enable the 2D US transducer to move automatically along predefined trajectories, including 60° tilting around the X-axis (the transducer face), 60-mm translation along the Z-axis, and rotation-translation hybrid. </p>
+
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="80%">
   <br>

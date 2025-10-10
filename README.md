@@ -134,6 +134,8 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   <img src="figs/patient_3DUS.png" alt="3D US" width="80%">
 </div>
 
+This figure shows the acquired patient's 3D US images, demonstrating the 3DLIVUS system in action. The related structures, including hepatic vessels, kidney, gallbladder and tumour, and inserted needles can be well captured and visualized in our 3D US images. This achievement served as the critical foundation for investigating the downstream tasks related to percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, improving tumour identification and needle tracking, please see details in below.
+
 ## Project 3: Intra-procedural Tumour Coverage Assessment
 <p align="left">
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>

@@ -61,7 +61,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
              width="90%">
       </a>
       <br>
-      <em>🎬 Demonstration at Schulich School of Medicine & Dentistry </em>
+      <em>🎬 Demonstration by Schulich School of Medicine & Dentistry </em>
     </td>
   </tr>
 </table>

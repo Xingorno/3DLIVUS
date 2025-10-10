@@ -44,7 +44,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 </p>
 
 
-## Project 1: 3DLIVUS system overview
+## Project 1: 3DLIVUS System
 <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch"><img src="https://img.shields.io/badge/Calibration-Roboitc Arm-green" alt="Arm Calibration"></a>
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="80%">
@@ -56,15 +56,15 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 ### How does 3DLIVUS acquire images during the procedure?
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DLIVUS_demonstration_Cool.png" 
-         alt="CTV News - 3DLIVUS Demonstration" 
+    <img src="figs/3DUS_acqui.png" 
+         alt="3DLIVUS image acquisition" 
          width="80%">
   </a>
   <br>
   <em>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</em>
 </p>
 
-### Patient trial at Victorial Hospital (London, Ontario, Canada)
+### Patient trial at Victoria Hospital (London, Ontario, Canada)
 
 <div align="center">
   <img src="figs/patient_3DUS.png" alt="3D US" width="80%">

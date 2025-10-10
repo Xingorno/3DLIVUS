@@ -160,16 +160,16 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </p>
 
 ### Why improve intra-procedural tumour coverage assessment?
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td align="center" width="40%">
+    <td align="center" width="40%" style="border:none;">
         <img src="figs/Assessment_1.png" 
              alt="Assessment 1" 
              width="90%">
       <!-- <br> -->
       <em>Tumour coverage assessment on 2D US</em>
     </td>
-    <td align="center" width="40%">
+    <td align="center" width="40%" style="border:none;">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
              width="95%">
@@ -178,6 +178,13 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
     </td>
   </tr>
 </table>
+
+<p> Explain why?
+</p>
+
+### 3D US-based Tumour Coverage Evaluation
+
+### 3D US-based Needle Adjustment (If required)
 
 
 

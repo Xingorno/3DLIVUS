@@ -1,8 +1,14 @@
 <div align="center">
   <h1>3DLIVUS: 3D LIVer UltraSound</h1>
 
-**[Fenster Lab and](https://www.robarts.ca/peterslab/)**
-**[VASST Lab, Robarts Research Institute, Western University](https://www.robarts.ca/peterslab/)**
+<a href="https://www.robarts.ca/peterslab/" target="_blank" rel="noopener noreferrer">
+  Fenster Lab, Robarts Research Institute, Western University
+</a>
+<br>
+<a href="https://www.robarts.ca/peterslab/" target="_blank" rel="noopener noreferrer">
+  VASST Lab, Robarts Research Institute, Western University
+</a>
+
 </div>
 
 ## Introudction

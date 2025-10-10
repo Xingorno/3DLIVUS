@@ -160,6 +160,11 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </p>
 
 ### Why improve intra-procedural tumour coverage assessment?
+
+<p align="justify">
+  In conventional US guidance, as shown in the left figure, the physician typically places a few landmarks on the in-plane 2D US image to estimate the required ablation zone size. Even though a 5 or 10 mm safety margin is commonly applied in clinical practice to reduce the risk of residual tumours, this process may still be insufficient to provide complete tumour coverage. In addition, to ensure safety, the physician must carefully examine multiple US views to avoid ablating critical structures, such as the colon, as shown in the right-hand image.
+</p>
+
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td align="center" width="40%" style="border:none;">
@@ -179,8 +184,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   </tr>
 </table>
 
-<p> Explain why?
-</p>
+
 
 ### 3D US-based Tumour Coverage Evaluation
 

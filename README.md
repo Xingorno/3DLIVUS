@@ -23,7 +23,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   <img src="https://img.shields.io/badge/Link2-Schulich School of Medicine & Dentistry-green" alt="Link2">
 </a>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
          alt="CTV News - 3DLIVUS Demonstration" 
@@ -31,9 +31,9 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   </a>
   <br>
   <em>🎬 Watch the 3DLIVUS system demonstration featured on CTV News (Jan 27, 2023).</em>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DLIVUS_demonstration_Cool.png" 
          alt="CTV News - 3DLIVUS Demonstration" 
@@ -41,7 +41,30 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   </a>
   <br>
   <em>🎬 Watch the 3DLIVUS system demonstration featured on Schulich School of Medicine & Medicine (Jan., 2023).</em>
-</p>
+</p> -->
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
+        <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
+             alt="CTV News - 3DLIVUS Demonstration" 
+             width="90%">
+      </a>
+      <br>
+      <em>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</em>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
+        <img src="figs/3DLIVUS_demonstration_Cool.png" 
+             alt="Schulich School - 3DLIVUS Demonstration" 
+             width="90%">
+      </a>
+      <br>
+      <em>🎬 Demonstration at Schulich School of Medicine & Dentistry </em>
+    </td>
+  </tr>
+</table>
 
 
 ## Project 1: 3DLIVUS System

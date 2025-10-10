@@ -27,6 +27,8 @@ a { color: #00bfff; }
 ## Introudction
 This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Link1-CTV news-green" alt="Link1">
 </a>
@@ -34,6 +36,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 <a href="https://www.schulich.uwo.ca/about/news/2023/january/lawson_3d_ultrasound.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Link2-Schulich School of Medicine & Dentistry-green" alt="Link2">
 </a>
+</p>
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
@@ -141,7 +144,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <a href="https://www.ovid.com/journals/medph/abstract/00005706-202208000-00083~tumour-coverage-evaluation-for-percutaneous-liver-tumour" target="_blank" rel= "noopener noreferrer">
   <img src="https://img.shields.io/badge/Topic 2-2D US vs. 3D US-green" alt="Tumour coverage evaluation" >
-</a>
+</a></p>
 
 
 </p>

@@ -52,7 +52,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   <em>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</em>
 </div>
 
-## Project 2: Patient trial on 3D US acquisition
+## Project 2: 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
@@ -64,7 +64,11 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   <em>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</em>
 </p>
 
+### Patient trial at Victorial Hospital (London, Ontario, Canada)
 
+<div align="center">
+  <img src="figs/patient_3DUS.png" alt="3D US" width="80%">
+</div>
 
 ## Project 3: Intra-procedural Tumour Coverage Assessment
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Project-green" alt="Project Page"></a>

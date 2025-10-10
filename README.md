@@ -1,6 +1,6 @@
 
 <style>
-body {
+body,.markdown-body, table, td, tr{
   background-color: #000;
   color: #eee;
 }
@@ -159,6 +159,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </a>
 </p>
 
+### Why improve intra-procedural tumour coverage assessment?
 <table align="center">
   <tr>
     <td align="center" width="40%">
@@ -171,7 +172,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
     <td align="center" width="40%">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
-             width="90%">
+             width="95%">
       <!-- <br> -->
       <em>Tumour coverage assessment with surrounding structures </em>
     </td>

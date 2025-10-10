@@ -91,6 +91,7 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 
 ## Project 2: 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?
+
 <p align="justify">
   The 3D US acquisition is fully automatic. During procedure, the physician/sonographer firstly needs to place the convential US probe on the target area of the patient, then the probe can be automatically driven by the 3D US scanner to acquire a sequence of 2D US images, which is used for 3D US reconstruction. The whole process (including reconstruction) takes around 7-12 seconds.
 </p>

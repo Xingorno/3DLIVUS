@@ -11,8 +11,6 @@ a { color: #00bfff; }
 <!-- </html> -->
 
 
-
-
 <div align="center">
   <h1>3DLIVUS: 3D LIVer UltraSound</h1>
 

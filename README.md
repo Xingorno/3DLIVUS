@@ -107,13 +107,15 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 <p align="left">
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
-<a href="https://www.ovid.com/journals/medph/abstract/00005706-202208000-00083~tumour-coverage-evaluation-for-percutaneous-liver-tumour" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 1-2D US vs. 3D US-green" alt="Tumour coverage evaluation" >
+<a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Topic 1-Tumour Coverage Evaulation and Optimization in 3D US images-green" alt="Tumour coverage evaluation" >
 </a>
 
-<a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 2-Tumour Coverage Evaulation and Optimization-green" alt="Tumour coverage evaluation" >
+<a href="https://www.ovid.com/journals/medph/abstract/00005706-202208000-00083~tumour-coverage-evaluation-for-percutaneous-liver-tumour" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Topic 2-2D US vs. 3D US-green" alt="Tumour coverage evaluation" >
 </a>
+
+
 </p>
 
 ## Project 4: Tumour Identification

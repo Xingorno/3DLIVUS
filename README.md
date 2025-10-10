@@ -1,3 +1,21 @@
+<!-- <html> -->
+<!-- <head> -->
+<style>
+body {
+  background-color: #000;
+  color: #eee;
+}
+.markdown-body {
+  background-color: #000;
+  color: #eee;
+}
+</style>
+<!-- </head> -->
+<!-- </html> -->
+
+
+
+
 <div align="center">
   <h1>3DLIVUS: 3D LIVer UltraSound</h1>
 
@@ -83,16 +101,17 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 <em>Note: the architecture of our robotic/mechatronic arm is apparently different from the widely used industrial arm, such as <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer"><strong>LBR iiwa, KUKA</strong></a>. We designed this arm on purpose, which is to better accommodate with liver tumour ablation procedures. For instance, the 3DLIVUS might need to be placed on the opposite side of the patient liver. In this setting, the arm should be long enough to easily reach to the target without bothering the standard workflow. Using the commerically available robot is challenging to adapt this environment.</em>
 </p>
 
-<p align="justify">
-For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach. The detailed work can be accessed through the shared bage link.  
-</p>
-
 
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="80%">
   <br>
   <em>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</em>
 </div>
+
+<p align="justify">
+For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach. The detailed work can be accessed through the shared badge link.  
+</p>
+
 
 ## Project 2: 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?

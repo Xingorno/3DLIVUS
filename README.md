@@ -5,10 +5,7 @@ body {
   background-color: #000;
   color: #eee;
 }
-.markdown-body {
-  background-color: #000;
-  color: #eee;
-}
+a { color: #00bfff; }
 </style>
 <!-- </head> -->
 <!-- </html> -->

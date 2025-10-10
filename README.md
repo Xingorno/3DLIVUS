@@ -13,8 +13,6 @@
 
 ## Introudction
 This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
-  
-## Clinical Translation
 
 <a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Link1-CTV news-green" alt="Link1">

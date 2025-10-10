@@ -106,6 +106,7 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
   <em>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</em>
 </div>
 
+<br>
 <p align="justify">
 For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach. The detailed work can be accessed through the shared badge link.  
 </p>
@@ -134,6 +135,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   <img src="figs/patient_3DUS.png" alt="3D US" width="80%">
 </div>
 
+<br>
 <p align="left">
   This figure shows the acquired patient's 3D US images, demonstrating the 3DLIVUS system in action. The related structures, including hepatic vessels, kidney, gallbladder and tumour, and inserted needles can be well captured and visualized in our 3D US images. This achievement served as the critical foundation for investigating the downstream tasks related to percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, improving tumour identification and needle tracking, please see details in below.
 </p>

@@ -208,7 +208,15 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   <img src="https://img.shields.io/badge/Interactive deformable registration-3D Slicer Extension-green" alt="Interactive deformable registration" >
 </a>
 
-
 </p>
 
+### Why improve tumour identification?
+
+### Our proposed 2D US-to-CT/MRI registration solution
+
+
 ## Project 5: Needle Identification (Ongoing...)
+
+### Why improve needle tracking?
+
+### What are we doing?

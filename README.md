@@ -148,11 +148,28 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <a href="https://www.ovid.com/journals/medph/abstract/00005706-202208000-00083~tumour-coverage-evaluation-for-percutaneous-liver-tumour" target="_blank" rel= "noopener noreferrer">
   <img src="https://img.shields.io/badge/Topic 2-2D US vs. 3D US-green" alt="Tumour coverage evaluation" >
-</a></p>
+</a>
+</p>
+
+
+
+## Project 4: Tumour Identification
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
+
+<a href="https://github.com/Xingorno/3DUS-CT-or-MRI-Rigid-Registration" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Topic 1-3D&nbsp;US&ndash;to&ndash;CT/MRI registration-green" alt="3D US-CT/MRI registration" >
+</a>
+
+<a href="https://github.com/Xingorno/DeepRegS2V" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Topic 2-2D&ndash;to&ndash;3D US registration-green" alt="2D-to-3D registration" >
+</a>
+
+<a href="https://github.com/Xingorno/TPS-based-Interactive-Deformable-Registration" target="_blank" rel= "noopener noreferrer">
+  <img src="https://img.shields.io/badge/Topic 3-Interactive deformable registration-green" alt="Interactive deformable registration" >
+</a>
 
 
 </p>
-
-## Project 4: Tumour Identification
 
 ## Project 5: Needle Identification

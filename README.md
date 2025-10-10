@@ -84,6 +84,9 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related work">
+  <a href="https://github.com/Xingorno/MICCAI2025-2DUS-to-CTMRI-Multimodal-Registration" target="_blank" rel="noopener noreferer">
+    <img src="https://img.shields.io/badge/3D US Integration-MICCAI2025 Highlight-green" alt="3D US integration">
+  </a>
   <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch">
     <img src="https://img.shields.io/badge/Calibration-Robotic_Arm-green" alt="Arm Calibration">
   </a>
@@ -148,11 +151,11 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 1-Tumour Coverage Evaulation and Optimization in 3D US images-green" alt="Tumour coverage evaluation" >
+  <img src="https://img.shields.io/badge/Tumour Coverage Evaulation and Optimization in 3D US images-IEEE TMI-green" alt="Tumour coverage evaluation" >
 </a>
 
 <a href="https://www.ovid.com/journals/medph/abstract/00005706-202208000-00083~tumour-coverage-evaluation-for-percutaneous-liver-tumour" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 2-2D US vs. 3D US-green" alt="Tumour coverage evaluation" >
+  <img src="https://img.shields.io/badge/2D US vs. 3D US-COMP2022-green" alt="Tumour coverage evaluation" >
 </a>
 </p>
 
@@ -163,15 +166,15 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 <a href=""><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
 <a href="https://github.com/Xingorno/3DUS-CT-or-MRI-Rigid-Registration" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 1-3D&nbsp;US&ndash;to&ndash;CT/MRI registration-green" alt="3D US-CT/MRI registration" >
+  <img src="https://img.shields.io/badge/3D&nbsp;US&ndash;to&ndash;CT/MRI registration-IPCAI2023-green" alt="3D US-CT/MRI registration" >
 </a>
 
 <a href="https://github.com/Xingorno/DeepRegS2V" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 2-2D&ndash;to&ndash;3D US registration-green" alt="2D-to-3D registration" >
+  <img src="https://img.shields.io/badge/2D&ndash;to&ndash;3D US registration-MICCAI&ndash;AECAI2024-green" alt="2D-to-3D registration" >
 </a>
 
 <a href="https://github.com/Xingorno/TPS-based-Interactive-Deformable-Registration" target="_blank" rel= "noopener noreferrer">
-  <img src="https://img.shields.io/badge/Topic 3-Interactive deformable registration-green" alt="Interactive deformable registration" >
+  <img src="https://img.shields.io/badge/Interactive deformable registration-3D Slicer Extension-green" alt="Interactive deformable registration" >
 </a>
 
 

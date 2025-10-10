@@ -78,6 +78,10 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</strong> with encoders and electromechanical locks, <strong>a motor-driven 3D US scanner</strong> mounted at the arm end, and <strong>a workstation</strong> with customized software. It interfaces with any commercial US machine and uses joint encoders in the mechatronic arm for pose tracking, eliminating susceptibility to clinical environmental factors. Operating passively, it allows users to freely maneuver the US transducer while also supporting automated motion along predefined trajectories—60° tilting around the X-axis, 60 mm translation along the Z-axis, and rotation–translation hybrid.
 </p>
 
+<p aling="justify">
+<em>Note: the architecture of our robotic/mechatronic arm is apparently different from the widely used industrial arm, such as <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer"><strong>LBR iiwa, KUKA</strong></a>. We designed this arm on purpose, which is to better accommodate with liver tumour ablation procedures. For instance, the 3DLIVUS  
+</p>
+
 
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="80%">
@@ -87,6 +91,10 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 
 ## Project 2: 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?
+<p align="justify">
+  The 3D US acquisition is fully automatic. During procedure, the physician/sonographer firstly needs to place the convential US probe on the target area of the patient, then the probe can be automatically driven by the 3D US scanner to acquire a sequence of 2D US images, which is used for 3D US reconstruction. The whole process (including reconstruction) takes around 7-12 seconds.
+</p>
+
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DUS_acqui.png" 

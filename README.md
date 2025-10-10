@@ -159,6 +159,25 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </a>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="40%">
+        <img src="figs/Assessment_1.png" 
+             alt="Assessment 1" 
+             width="90%">
+      <!-- <br> -->
+      <em>Tumour coverage assessment on 2D US</em>
+    </td>
+    <td align="center" width="40%">
+        <img src="figs/Assessment_2.png" 
+             alt="Assessment 2" 
+             width="90%">
+      <!-- <br> -->
+      <em>Tumour coverage assessment with surrounding structures </em>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Project 4: Tumour Identification

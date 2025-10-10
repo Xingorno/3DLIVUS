@@ -1,14 +1,12 @@
-<!-- <html> -->
-<!-- <head> -->
-<style>
+
+<!-- <style>
 body {
   background-color: #000;
   color: #eee;
 }
 a { color: #00bfff; }
-</style>
-<!-- </head> -->
-<!-- </html> -->
+</style> -->
+
 
 
 <div align="center">
@@ -111,6 +109,11 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach. The detailed work can be accessed through the shared badge link.  
 </p>
 
+<div align="center">
+  <img src="figs/3D_US_integration_framework_v1.png" alt="3DLIVUS frame" width="80%">
+  <br>
+  <em>Figure 2. Framework for 3D US integration into conventional 2D US guidance. (a) 3DLIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: Registration, Recon: 3D US reconstruction)</em>
+</div>
 
 ## Project 2: 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?

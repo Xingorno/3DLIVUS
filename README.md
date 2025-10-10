@@ -172,4 +172,4 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 </p>
 
-## Project 5: Needle Identification
+## Project 5: Needle Identification (Ongoing...)

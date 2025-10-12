@@ -38,9 +38,9 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; border-spacing:0; border-top:0; border-bottom:0;">
   <tr>
-    <td align="center" width="50%" style="border:none;">
+    <td align="center" width="50%" style="border:none; padding:0;">
       <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
              alt="CTV News - 3DLIVUS Demonstration" 
@@ -49,7 +49,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
       <br>
       <em>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</em>
     </td>
-    <td align="center" width="50%" style="border:none;">
+    <td align="center" width="50%" style="border:none; padding:0;">
       <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_demonstration_Cool.png" 
              alt="Schulich School - 3DLIVUS Demonstration" 
@@ -107,7 +107,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 ### How does 3DLIVUS acquire images during the procedure?
 
 <p align="justify">
-  The 3D US acquisition is fully automatic. During procedure, the physician/sonographer firstly needs to place the convential US probe on the target area of the patient, then the probe can be automatically driven by the 3D US scanner to acquire a sequence of 2D US images, which is used for 3D US reconstruction. The whole process (including reconstruction) takes around 7-12 seconds.
+  The 3D US acquisition is fully automatic. During the procedure, the physician/sonographer first needs to place the conventional US probe on the target area of the patient. Then, the probe can be automatically driven by the 3D US scanner to acquire a sequence of 2D US images, which are used for 3D US reconstruction. The whole process (including reconstruction) takes around 7-12 seconds.
 </p>
 
 <p align="center">
@@ -152,16 +152,16 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; border-spacing:0; border-top:0; border-bottom:0;">
   <tr>
-    <td align="center" width="40%" style="border:none;">
+    <td align="center" width="40%" style="border:none; padding:0;">
         <img src="figs/Assessment_1.png" 
              alt="Assessment 1" 
              width="90%">
       <!-- <br> -->
       <em>Tumour coverage assessment on 2D US</em>
     </td>
-    <td align="center" width="40%" style="border:none;">
+    <td align="center" width="40%" style="border:none; padding:0;">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
              width="95%">

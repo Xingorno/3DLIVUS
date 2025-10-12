@@ -171,6 +171,11 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </table>
 
 ### 3D US-based Tumour Coverage Evaluation
+<p align="justify">
+To demonstrate that, we conducted a clinical trial from 2021 to 2022. In this trial, we collected data from 12 patients, including 8 cases treated with RFA, 4 cases with MWA. 
+As shown in this figure, we firstly manually segmented both the tumour and the needle in 3D US images. The ablation zone was then estimated based on the manufacturer’s guidelines. 
+Next, we calculated the surface distances between the tumour and the estimated ablation zone. To validate, we compared the results with clinical outcomes, which were obtained from follow-up CT/MRI images. As a result, in conventional 2D US, 9 out of 12 cases were predicted correctly. However, with our 3D US approach, the accuracy improved to 11 out of 12 cases. For the remaining case, the discrepancy was due to new disease progression, rather than a limitation of the 3D US-based estimation. Overall, these results highlight that our 3D US approach provided valuable and reliable information for all cases, demonstrating its potential to enhance tumour coverage assessment in ablation procedures.
+</p>
 
 <div align="center">
   <img src="figs/Tumour_coverage_compare.png" alt="3DLIVUS assessment" width="80%">

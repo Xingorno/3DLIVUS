@@ -23,8 +23,6 @@ a { color: #00bfff; }
 </div>
 
 ## Introudction
-This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Related work:-red" alt="Related links">
 <a href="https://www.ctvnews.ca/london/article/new-robotic-3d-ultrasound-could-improve-liver-cancer-treatment-researchers/" target="_blank" rel="noopener noreferrer">
@@ -35,6 +33,10 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   <img src="https://img.shields.io/badge/Link2-Schulich School of Medicine & Dentistry-green" alt="Link2">
 </a>
 </p>
+
+This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
+
+
 
 <!-- <p align="center">
   <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">

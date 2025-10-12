@@ -123,7 +123,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 ### Patient trial at Victoria Hospital (London, Ontario, Canada)
 
 <div align="center">
-  <img src="figs/patient_3DUS.png" alt="3D US" width="80%">
+  <img src="figs/patient_3DUS_black.png" alt="3D US" width="80%">
 </div>
 
 <br>

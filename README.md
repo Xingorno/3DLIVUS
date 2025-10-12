@@ -184,9 +184,12 @@ Next, we calculated the surface distances between the tumour and the estimated a
 </div>
 
 
-
 ### 3D US-based Needle Adjustment (If required)
 
+<p align="justify">
+The question is: is it possible to optimize those untreated tumours using 3D US during the procedure? To address that, we developed a novel margin uniformity approach to optimize the needle position. The top row shows the different clinical cases, which could happen during the procedure. For each case, our approach generates a 2D plot, as shown in second row. This plot provides the information on how to adjust the needle.
+
+</p>
 
 
 ## Project 3: Tumour Identification

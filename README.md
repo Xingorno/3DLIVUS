@@ -37,7 +37,6 @@ a { color: #00bfff; }
 This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
 
 
-
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; border-spacing:0; border-top:0; border-bottom:0;">
   <tr>
     <td align="center" width="50%" style="border:none; padding:0;">
@@ -154,17 +153,17 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; border-spacing:0; border-top:0; border-bottom:0;">
   <tr>
-    <td align="center" width="40%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none; padding:0;">
         <img src="figs/Assessment_1.png" 
              alt="Assessment 1" 
              width="90%">
       <!-- <br> -->
       <em>Tumour coverage assessment on 2D US</em>
     </td>
-    <td align="center" width="40%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none; padding:0;">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
-             width="95%">
+             width="90%">
       <!-- <br> -->
       <em>Tumour coverage assessment with surrounding structures </em>
     </td>

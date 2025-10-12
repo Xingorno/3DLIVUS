@@ -38,25 +38,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
-         alt="CTV News - 3DLIVUS Demonstration" 
-         width="80%">
-  </a>
-  <br>
-  <em>🎬 Watch the 3DLIVUS system demonstration featured on CTV News (Jan 27, 2023).</em>
-</p> -->
 
-<!-- <p align="center">
-  <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DLIVUS_demonstration_Cool.png" 
-         alt="CTV News - 3DLIVUS Demonstration" 
-         width="80%">
-  </a>
-  <br>
-  <em>🎬 Watch the 3DLIVUS system demonstration featured on Schulich School of Medicine & Medicine (Jan., 2023).</em>
-</p> -->
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -99,7 +81,7 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 </p>
 
 <p align="justify">
-<em>Note: the architecture of our robotic/mechatronic arm is apparently different from the widely used industrial arm, such as <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer"><strong>LBR iiwa, KUKA</strong></a>. We designed this arm on purpose, which is to better accommodate with liver tumour ablation procedures. For instance, the 3DLIVUS might need to be placed on the opposite side of the patient liver. In this setting, the arm should be long enough to easily reach to the target without bothering the standard workflow. Using the commerically available robot is challenging to adapt this environment.</em>
+<em>Note: the architecture of our robotic/mechatronic arm is apparently different from the widely used industrial arm, such as <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer">LBR iiwa, KUKA</a>. We designed this arm on purpose, which is to better accommodate with liver tumour ablation procedures. For instance, the 3DLIVUS might need to be placed on the opposite side of the patient liver. In this setting, the arm should be long enough to easily reach to the target without bothering the standard workflow. Using the commerically available robot is challenging to adapt this environment.</em>
 </p>
 
 
@@ -111,9 +93,12 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 
 <br>
 <p align="justify">
-For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach. The detailed work can be accessed through the shared badge link.  
+For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach, see the <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch" target="_blank" rel="noopener noreferrer">link</a>.  
 </p>
 
+<p align="justify">
+  Figure 2 shows our proposed framework for integrating 3D US into the standard clinical ablation workflow, which advanced the capabities of 3D US imaging in improving percutaneous tumour ablation, demonstrating the potential to expand the therapeutic role of 3D US in clinical interventions. In detail, the ablation workflow is enhanced with intra-procedural tumour coverage (project 2), tumour identification (project 3), multimodal visualization and instrument tracking (project 4).
+</p>
 <div align="center">
   <img src="figs/3D_US_integration_framework_v1.png" alt="3DLIVUS frame" width="80%">
   <br>

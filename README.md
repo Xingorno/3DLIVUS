@@ -195,6 +195,15 @@ The next question is: is it possible to optimize those untreated tumours using 3
   <em>Figure. 3D US-based needle adjustment.</em>
 </div>
 
+<p align="justify">
+Here is a patient case that requires needle adjustment for complete tumour coverage.
+</p>
+<div align="center">
+  <img src="figs/needle adjustment patient.png" alt="3DLIVUS assessment" width="80%">
+  <br>
+  <em>Figure. 3D US-based needle adjustment case on a patient.</em>
+</div>
+
 ## Project 3: Tumour Identification
 <p align="left">
 <a href=""><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>

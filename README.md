@@ -185,7 +185,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 </table>
 
 <div align="center">
-  <img src="figs/Tumor coverage 2D-3D compare.png" alt="3DLIVUS assessment" width="80%">
+  <img src="figs/2D-3D compare.png" alt="3DLIVUS assessment" width="80%">
   <br>
   <em>Figure 3. Comparison of tumour coverage evaluation on 2D and 3D US.</em>
 </div>

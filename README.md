@@ -38,8 +38,6 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 
 
-
-
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td align="center" width="50%" style="border:none;">
@@ -105,7 +103,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   <em>Figure 2. Framework for 3D US integration into conventional 2D US guidance. (a) 3DLIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: Registration, Recon: 3D US reconstruction)</em>
 </div>
 
-## Project 2: 3D US Acquisition & Clinical Trial
+## 3D US Acquisition & Clinical Trial
 ### How does 3DLIVUS acquire images during the procedure?
 
 <p align="justify">
@@ -133,7 +131,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   This figure shows the acquired patient's 3D US images, demonstrating the 3DLIVUS system in action. The related structures, including hepatic vessels, kidney, gallbladder and tumour, and inserted needles can be well captured and visualized in our 3D US images. This achievement served as the critical foundation for investigating the downstream tasks related to percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, improving tumour identification and needle tracking, please see details in below.
 </p>
 
-## Project 3: Intra-procedural Tumour Coverage Assessment
+## Project 2: Intra-procedural Tumour Coverage Assessment
 <p align="left">
 <a href="https://github.com/Xingorno/3DUS-Based-Tumor-Coverage-Evaluation-And-Optimization"><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
@@ -187,7 +185,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 
 
-## Project 4: Tumour Identification
+## Project 3: Tumour Identification
 <p align="left">
 <a href=""><img src="https://img.shields.io/badge/Related work:-red" alt="Project Page"></a>
 
@@ -210,7 +208,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 ### Our proposed 2D US-to-CT/MRI registration solution
 
 
-## Project 5: Needle Identification (Ongoing...)
+## Project 4: Needle Identification (Ongoing...)
 
 ### Why improve needle tracking?
 

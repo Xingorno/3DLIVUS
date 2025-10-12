@@ -98,7 +98,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   Figure 2 shows our proposed framework for integrating 3D US into the standard clinical ablation workflow, which advanced the capabities of 3D US imaging in improving percutaneous tumour ablation, demonstrating the potential to expand the therapeutic role of 3D US in clinical interventions. In detail, the ablation workflow is enhanced with intra-procedural tumour coverage (project 2), tumour identification (project 3), multimodal visualization and instrument tracking (project 4).
 </p>
 <div align="center">
-  <img src="figs/3D_US_integration_framework_v1.png" alt="3DLIVUS frame" width="80%">
+  <img src="figs/3DLIVUS_intergration_framework_black.png" alt="3DLIVUS frame" width="80%">
   <br>
   <em>Figure 2. Framework for 3D US integration into conventional 2D US guidance. (a) 3DLIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: Registration, Recon: 3D US reconstruction)</em>
 </div>

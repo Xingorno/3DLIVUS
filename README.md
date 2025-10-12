@@ -56,9 +56,9 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
   <em>🎬 Watch the 3DLIVUS system demonstration featured on Schulich School of Medicine & Medicine (Jan., 2023).</em>
 </p> -->
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border:none;">
       <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
              alt="CTV News - 3DLIVUS Demonstration" 
@@ -67,7 +67,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
       <br>
       <em>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</em>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border:none;">
       <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_demonstration_Cool.png" 
              alt="Schulich School - 3DLIVUS Demonstration" 
@@ -165,6 +165,8 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   In conventional US guidance, as shown in the left figure, the physician typically places a few landmarks on the in-plane 2D US image to estimate the required ablation zone size. Even though a 5 or 10 mm safety margin is commonly applied in clinical practice to reduce the risk of residual tumours, this process may still be insufficient to provide complete tumour coverage. In addition, to ensure safety, the physician must carefully examine multiple US views to avoid ablating critical structures, such as the colon, as shown in the right-hand image.
 </p>
 
+
+
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td align="center" width="40%" style="border:none;">
@@ -184,13 +186,15 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
   </tr>
 </table>
 
+### 3D US-based Tumour Coverage Evaluation
+
 <div align="center">
   <img src="figs/Tumour_coverage_compare.png" alt="3DLIVUS assessment" width="80%">
   <br>
   <em>Figure 3. Comparison of tumour coverage evaluation on 2D and 3D US.</em>
 </div>
 
-### 3D US-based Tumour Coverage Evaluation
+
 
 ### 3D US-based Needle Adjustment (If required)
 

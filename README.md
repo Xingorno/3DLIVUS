@@ -81,7 +81,7 @@ a { color: #00bfff; }
 </p>
 
 <p align="justify">
-The <strong>3DLIVUS</strong> system comprises <strong>a counterbalanced arm</strong> with encoders and electromechanical locks, <strong>a motor-driven 3D US scanner</strong> mounted at the arm end, and <strong>a workstation</strong> with customized control software. It interfaces with any commercial US machine and uses joint encoders in the mechatronic arm for pose tracking, eliminating susceptibility to clinical environmental factors. Operating passively, it allows users to freely maneuver the US transducer while also supporting automated motion along predefined trajectories—60° tilting around the X-axis, 60 mm translation along the Z-axis, and rotation–translation hybrid.
+The <strong>3DLIVUS</strong> system comprises <strong>a counterbalanced arm</strong> with encoders and electromechanical locks, <strong>a motor-driven 3D US scanner</strong> mounted at the arm end, and <strong>a workstation</strong> with customized control software (see Figure 1). It interfaces with any commercial US machine and uses joint encoders in the mechatronic arm for pose tracking, eliminating susceptibility to clinical environmental factors. Operating passively, it allows users to freely maneuver the US transducer while also supporting automated motion along predefined trajectories—60° tilting around the X-axis, 60 mm translation along the Z-axis, and rotation–translation hybrid.
 </p>
 
 <p align="justify">
@@ -126,11 +126,13 @@ The 3D US acquisition process is fully automated. During the procedure, the phys
 
 <div align="center">
   <img src="figs/patient_3DUS_black.png" alt="3D US" width="80%">
+  <br>
+  <a> Figure 3. 3D US examples of two patients. </a>
 </div>
 
 <br>
 <p align="left">
-This figure presents a patient’s acquired 3D US images, demonstrating the 3DLIVUS system in action. Relevant anatomical structures—including hepatic vessels, kidney, gallbladder, tumour, and inserted needles—are clearly visualized in the reconstructed volume. This achievement provides a critical foundation for subsequent investigations in percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, enhanced tumour identification, and needle tracking (see details below).
+Figure 3 presents a patient’s acquired 3D US images, demonstrating the 3DLIVUS system in action. Relevant anatomical structures—including hepatic vessels, kidney, gallbladder, tumour, and inserted needles—are clearly visualized in the reconstructed volume. This achievement provides a critical foundation for subsequent investigations in percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, enhanced tumour identification, and needle tracking (see details below).
 </p>
 
 ## Project 2: Intra-procedural Tumour Coverage Assessment

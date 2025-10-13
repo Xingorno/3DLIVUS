@@ -34,8 +34,8 @@ a { color: #00bfff; }
 </a>
 </p>
 
-This project aims to investigate how 3D ultrasound can improve and facilitate percutaneous thermal liver tumour ablations. It also shows the potentials to translate to other clinical oncological applications, such as renal tumour ablation.
-
+<p align="justify">Liver tumour ablation is a minimally invasive treatment for early-stage liver cancer, especially for patients who are ineligible for surgery. Ultrasound (US) is commonly used during procedures as it provides real-time imaging, is widely available, and doesn’t use radiation. Conventionally, doctors must interpret 2D images to locate tumours in a 3D space. This process requires extensive experience and training to perform reliably. Additionally, identifying tumours using US can be challenging, especially when the tumour is confused with non-cancerous nodules or in a hard-to-reach location. These challenges limit the use of ablation procedures in clinical practice. This project aims to investigate how 3D US can improve and facilitate percutaneous thermal liver tumour ablations. It also demonstrated the potential to translate to other clinical oncological applications, such as renal tumour ablation.
+</p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
@@ -266,7 +266,7 @@ Here are some results on humans.
   <a href="https://www.youtube.com/watch?v=88EfB2hzf-8" target="_blank" rel="noopener noreferrer">
     <img src="figs/3DUS-to-CTorMRI_registration_result.png" 
          alt="3DLIVUS registration: 3D US-to-CT/MRI" 
-         width="80%">
+         width="70%">
   </a>
   <br>
   <a>🎬 3DLIVUS registration: 3D US-to-CT/MRI.</a>
@@ -303,5 +303,6 @@ Here are some results on humans.
 
 ### What are we doing?
 
-<a align="justify">This project is still ongoing. The patient dataset has already been collected and annotated. 
-<strong>The update is coming soon!</strong></a>
+<p align="justify">This project is still ongoing. The patient dataset has already been collected and annotated. 
+<strong>The update is coming soon!</strong>
+</p>

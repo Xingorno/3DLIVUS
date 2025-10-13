@@ -11,14 +11,15 @@ a { color: #00bfff; }
 
 <div align="center">
   <h1>3DLIVUS: 3D LIVer UltraSound</h1>
-<a href="https://scholar.google.com/citations?user=pPSHM1kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+<p align="center"><a href="https://scholar.google.com/citations?user=pPSHM1kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   Shuwei Xing, PhD;&nbsp; 
-</a> <a href="https://www.schulich.uwo.ca/medimaging//people/bios/faculty/derek_cool.html" target="_blank" rel="noopener noreferrer">
+</a><br><a href="https://www.schulich.uwo.ca/medimaging//people/bios/faculty/derek_cool.html" target="_blank" rel="noopener noreferrer">
   Derek W. Cool, PhD, MD; &nbsp; 
 </a> 
 <a href="https://www.robarts.ca/research/scientists/fenster_aaron.html" target="_blank" rel="noopener noreferrer">
   Aaron Fenster, PhD
-</a> 
+</a>
+</p>
 <br>
 <a>
   Robarts Research Institute, Western University, Canada

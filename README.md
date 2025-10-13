@@ -41,7 +41,7 @@ a { color: #00bfff; }
   <tr>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
-        <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
+        <img src="figs/3DLIVUS_CTV_demonstration_Cool_v.png" 
              alt="CTV News - 3DLIVUS Demonstration" 
              width="90%">
       </a>
@@ -111,7 +111,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DLIVUS_3DUS scanning.png" 
+    <img src="figs/3DLIVUS_3DUS scanning_v.png" 
          alt="3DLIVUS image acquisition" 
          width="80%">
   </a>
@@ -264,7 +264,7 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 Here are some results on humans.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=88EfB2hzf-8" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DUS-to-CTorMRI_registration_result.png" 
+    <img src="figs/3DUS-to-CTorMRI_registration_result_v.png" 
          alt="3DLIVUS registration: 3D US-to-CT/MRI" 
          width="70%">
   </a>
@@ -274,7 +274,7 @@ Here are some results on humans.
 <br>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BHfTiwmbq2c" target="_blank" rel="noopener noreferrer">
-    <img src="figs/2DUS-to-CTorMRI_registration_result.png" 
+    <img src="figs/2DUS-to-CTorMRI_registration_result_v.png" 
          alt="3DLIVUS registration: 2D US-to-CT/MRI" 
          width="80%">
   </a>
@@ -292,7 +292,7 @@ Here are some results on humans.
 <br>
 <p align="center">
   <a href="https://youtu.be/N8PFr8XevkU" target="_blank" rel="noopener noreferrer">
-    <img src="figs/needle tracking.png" 
+    <img src="figs/needle tracking_v.png" 
          alt="3DLIVUS tracking: Needle tracking" 
          width="60%">
   </a>

@@ -46,7 +46,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
              width="90%">
       </a>
       <br>
-      <em>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</em>
+      <a>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</a>
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
@@ -55,7 +55,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
              width="90%">
       </a>
       <br>
-      <em>🎬 Demonstration by Schulich School of Medicine & Dentistry </em>
+      <a>🎬 Demonstration by Schulich School of Medicine & Dentistry </a>
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@ The <strong>3DLIVUS</strong> system integrates <strong>a counterbalanced arm</st
 <div align="center">
   <img src="figs/3DLIVUS system.png" alt="3DLIVUS system" width="80%">
   <br>
-  <em>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</em>
+  <a>Figure 1. (a) Overview of the 3DLIVUS system; (b) 3D US scanning mode.</a>
 </div>
 
 <br>
@@ -99,7 +99,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 <div align="center">
   <img src="figs/3DLIVUS_integration_framework_black.png" alt="3DLIVUS frame" width="80%">
   <br>
-  <em>Figure 2. Framework for 3D US integration into conventional 2D US guidance. (a) 3DLIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: Registration, Recon: 3D US reconstruction)</em>
+  <a>Figure 2. Framework for 3D US integration into conventional 2D US guidance. (a) 3DLIVUS system; (b) intra-procedural guidance. Note: the role of 3D US is highlighted in a brown block. (Regi: Registration, Recon: 3D US reconstruction)</a>
 </div>
 
 ## 3D US Acquisition & Clinical Trial
@@ -116,7 +116,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
          width="80%">
   </a>
   <br>
-  <em>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</em>
+  <a>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</a>
 </p>
 
 ### Patient trial at Victoria Hospital (London, Ontario, Canada)
@@ -158,14 +158,14 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
              alt="Assessment 1" 
              width="90%">
       <!-- <br> -->
-      <em>Tumour coverage assessment on 2D US</em>
+      <a>Tumour coverage assessment on 2D US</a>
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
              width="90%">
       <!-- <br> -->
-      <em>Tumour coverage assessment with surrounding structures </em>
+      <a>Tumour coverage assessment with surrounding structures </a>
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ Next, we calculated the surface distances between the tumour and the estimated a
 <div align="center">
   <img src="figs/Tumour_coverage_compare.png" alt="3DLIVUS assessment" width="80%">
   <br>
-  <em>Figure 3. Comparison of tumour coverage evaluation on 2D and 3D US.</em>
+  <a>Figure 3. Comparison of tumour coverage evaluation on 2D and 3D US.</a>
 </div>
 
 
@@ -193,7 +193,7 @@ The next question is: is it possible to optimize those untreated tumours using 3
 <div align="center">
   <img src="figs/Needle adjustment.png" alt="3DLIVUS assessment" width="80%">
   <br>
-  <em>Figure. 3D US-based needle adjustment.</em>
+  <a>Figure. 3D US-based needle adjustment.</a>
 </div>
 <br>
 <p align="justify">
@@ -202,7 +202,7 @@ Here is a patient case that requires needle adjustment for complete tumour cover
 <div align="center">
   <img src="figs/needle_adjustment_patient.png" alt="3DLIVUS assessment" width="80%">
   <br>
-  <em>Figure. 3D US-based needle adjustment case on a patient.</em>
+  <a>Figure. 3D US-based needle adjustment case on a patient.</a>
 </div>
 
 ## Project 3: Tumour Identification
@@ -237,14 +237,14 @@ Here is a patient case that requires needle adjustment for complete tumour cover
              alt="Invisible tumour 1" 
              width="90%">
       <br>
-      <em> Left: invisible tumour in US; Right: visible tumour in MRI</em>
+      <a> Left: invisible tumour in US; Right: visible tumour in MRI</a>
     </td>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
         <img src="figs/Invisible_tumours_2.png" 
              alt="Invisible tumour 2" 
              width="80%">
       <br>
-      <em> Left: benign regenerative nodule; Right: malignant HCC</em>
+      <a> Left: benign regenerative nodule; Right: malignant HCC</a>
     </td>
   </tr>
 </table>
@@ -257,7 +257,7 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
 <div align="center">
   <img src="figs/registration_workflow.png" alt="registration" width="80%">
   <br>
-  <em>Figure. Registration overview of 2D US-to-CT/MRI images</em>
+  <a>Figure. Registration overview of 2D US-to-CT/MRI images</a>
 </div>
 
 ### Clinical results

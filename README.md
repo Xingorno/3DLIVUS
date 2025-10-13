@@ -286,4 +286,17 @@ Here are some results on humans.
 
 ### Why improve needle tracking?
 
+<a align="justify">
+  Needle’s active tip determines the location of the generated ablation zone, directly impacting the tumour coverage and treatment effectiveness. However, accurate needle identification remains a challenge due to several factors: (1) Due to the in-plane insertion requirement, the needle often veers away from the imaging plane. (2) And the needle often shows poor image quality, especially when inserted at a steep angle or at greater depths. (3) In addition, needle mimics such as the boundary of the gallbladder can resemble the needle, further complicating identification and increasing the risk of misinterpretation. These challenges highlight the need for improved needle tracking methods to enhance accuracy, confidence, and treatment success in ultrasound-guided ablation, as shown in the video below.
+</a>
+<br>
+<p align="center">
+  <a href="https://youtu.be/N8PFr8XevkU" target="_blank" rel="noopener noreferrer">
+    <img src="figs/2DUS-to-CTorMRI_registration_result.png" 
+         alt="3DLIVUS tracking: Needle tracking" 
+         width="80%">
+  </a>
+  <br>
+  <a>🎬 3DLIVUS tracking: Needle tracking.</a>
+</p>
 ### What are we doing?

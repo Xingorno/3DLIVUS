@@ -250,7 +250,15 @@ Here is a patient case that requires needle adjustment for complete tumour cover
 </table>
 
 ### Our proposed 2D US-to-CT/MRI registration solution
-
+<p align="justify">
+The idea of our proposed method is to divide the direct 2D US-to-CT or MRI registration into two components, which are 3D US-to-CT or MRI registration and 2D US-to-3D US registration. This decomposition strategy could significantly reduce the computational burden for registration algorithms. In addition, the introduction of 3D US images does not increase the clinical workload complexity. The 3D US image acquisition only requires 7s-12s for a single image, and this image can also improve intra-procedure tumour coverage, as demonstrated previously. 
+</p>
+<br>
+<div align="center">
+  <img src="figs/registration_workflow.png" alt="registration" width="80%">
+  <br>
+  <em>Figure. Registration overview of 2D US-to-CT/MRI images</em>
+</div>
 
 ## Project 4: Needle Identification (Ongoing...)
 

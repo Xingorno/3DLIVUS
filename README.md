@@ -299,6 +299,9 @@ Here are some results on humans.
   <br>
   <a>🎬 3DLIVUS tracking: Needle tracking.</a>
 </p>
+<br>
+
 ### What are we doing?
+
 <a align="justify">This project is still ongoing. The patient dataset has already been collected and annotated. 
 <strong>The update is coming soon!</strong></a>

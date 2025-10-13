@@ -225,6 +225,11 @@ Here is a patient case that requires needle adjustment for complete tumour cover
 
 ### Why improve tumour identification?
 
+<p align="justify">
+  In conventional US guidance, some liver tumours have low conspicuity or are nearly undetectable when imaging small lesions or tumours located in challenging regions, such as the liver dome (see Fig. X left). In addition, tumour mimics, such as regenerative nodules and prior ablation sites, may cause further confusion, making it even more challenging for physicians to accurately identify the tumour, as shown in Fig. right. 
+
+</p>
+<br>
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
@@ -237,9 +242,9 @@ Here is a patient case that requires needle adjustment for complete tumour cover
     <td align="center" width="50%" style="border:none !important; padding:0 !important;">
         <img src="figs/Invisible_tumours_2.png" 
              alt="Invisible tumour 2" 
-             width="90%">
+             width="80%">
       <br>
-      <em> Left: benign regenerative nodule; Right: malignment HCC</em>
+      <em> Left: benign regenerative nodule; Right: malignant HCC</em>
     </td>
   </tr>
 </table>

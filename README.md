@@ -225,6 +225,25 @@ Here is a patient case that requires needle adjustment for complete tumour cover
 
 ### Why improve tumour identification?
 
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
+  <tr>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="figs/Invisible_tumours_1.png" 
+             alt="Invisible tumour 1" 
+             width="90%">
+      <br>
+      <em> Left: invisible tumour in US; Right: visible tumour in MRI</em>
+    </td>
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
+        <img src="figs/Invisible_tumours_2.png" 
+             alt="Invisible tumour 2" 
+             width="90%">
+      <br>
+      <em> Left: benign regenerative nodule; Right: malignment HCC</em>
+    </td>
+  </tr>
+</table>
+
 ### Our proposed 2D US-to-CT/MRI registration solution
 
 

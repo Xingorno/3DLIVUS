@@ -260,6 +260,18 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
   <em>Figure. Registration overview of 2D US-to-CT/MRI images</em>
 </div>
 
+### Clinical results
+Here are some results on humans.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=88EfB2hzf-8" target="_blank" rel="noopener noreferrer">
+    <img src="figs/3DUS-to-CTorMRI_registration_result.png" 
+         alt="3DLIVUS registration: 3D US-to-CT/MRI" 
+         width="80%">
+  </a>
+  <br>
+  <a>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</a>
+</p>
+
 ## Project 4: Needle Identification (Ongoing...)
 
 ### Why improve needle tracking?

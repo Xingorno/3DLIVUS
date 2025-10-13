@@ -292,7 +292,7 @@ Here are some results on humans.
 <br>
 <p align="center">
   <a href="https://youtu.be/N8PFr8XevkU" target="_blank" rel="noopener noreferrer">
-    <img src="figs/2DUS-to-CTorMRI_registration_result.png" 
+    <img src="figs/needle tracking.png" 
          alt="3DLIVUS tracking: Needle tracking" 
          width="80%">
   </a>

@@ -177,6 +177,7 @@ As shown in this figure, we firstly manually segmented both the tumour and the n
 Next, we calculated the surface distances between the tumour and the estimated ablation zone. To validate, we compared the results with clinical outcomes, which were obtained from follow-up CT/MRI images. As a result, in conventional 2D US, 9 out of 12 cases were predicted correctly. However, with our 3D US approach, the accuracy improved to 11 out of 12 cases. For the remaining case, the discrepancy was due to new disease progression, rather than a limitation of the 3D US-based estimation. Overall, these results highlight that our 3D US approach provided valuable and reliable information for all cases, demonstrating its potential to enhance tumour coverage assessment in ablation procedures.
 </p>
 
+<br>
 <div align="center">
   <img src="figs/Tumour_coverage_compare.png" alt="3DLIVUS assessment" width="80%">
   <br>

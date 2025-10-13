@@ -39,7 +39,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
-    <td align="center" width="50%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://www.youtube.com/watch?v=rgaihhQIr80" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_CTV_demonstration_Cool.png" 
              alt="CTV News - 3DLIVUS Demonstration" 
@@ -48,7 +48,7 @@ This project aims to investigate how 3D ultrasound can improve and facilitate pe
       <br>
       <em>🎬 3DLIVUS featured on CTV News (Jan 27, 2023)</em>
     </td>
-    <td align="center" width="50%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
       <a href="https://youtu.be/hxs5y-deY70" target="_blank" rel="noopener noreferrer">
         <img src="figs/3DLIVUS_demonstration_Cool.png" 
              alt="Schulich School - 3DLIVUS Demonstration" 
@@ -153,14 +153,14 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none !important; border-collapse:collapse !important; border-spacing:0 !important; border-top:0 !important; border-bottom:0 !important;">
   <tr>
-    <td align="center" width="50%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
         <img src="figs/Assessment_1.png" 
              alt="Assessment 1" 
              width="90%">
       <!-- <br> -->
       <em>Tumour coverage assessment on 2D US</em>
     </td>
-    <td align="center" width="50%" style="border:none; padding:0;">
+    <td align="center" width="50%" style="border:none !important; padding:0 !important;">
         <img src="figs/Assessment_2.png" 
              alt="Assessment 2" 
              width="90%">

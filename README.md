@@ -111,7 +111,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
-    <img src="figs/3DUS_acqui.png" 
+    <img src="figs/3DLIVUS_3DUS scanning.png" 
          alt="3DLIVUS image acquisition" 
          width="80%">
   </a>

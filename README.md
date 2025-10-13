@@ -294,7 +294,7 @@ Here are some results on humans.
   <a href="https://youtu.be/N8PFr8XevkU" target="_blank" rel="noopener noreferrer">
     <img src="figs/needle tracking.png" 
          alt="3DLIVUS tracking: Needle tracking" 
-         width="80%">
+         width="60%">
   </a>
   <br>
   <a>🎬 3DLIVUS tracking: Needle tracking.</a>

@@ -269,7 +269,17 @@ Here are some results on humans.
          width="80%">
   </a>
   <br>
-  <a>🎬 Watch the 3DLIVUS system demonstration on image acquisition.</a>
+  <a>🎬 3DLIVUS registration: 3D US-to-CT/MRI.</a>
+</p>
+<br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BHfTiwmbq2c" target="_blank" rel="noopener noreferrer">
+    <img src="figs/2DUS-to-CTorMRI_registration_result.png" 
+         alt="3DLIVUS registration: 2D US-to-CT/MRI" 
+         width="80%">
+  </a>
+  <br>
+  <a>🎬 3DLIVUS registration: 2D US-to-CT/MRI.</a>
 </p>
 
 ## Project 4: Needle Identification (Ongoing...)

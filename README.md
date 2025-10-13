@@ -85,7 +85,7 @@ The <strong>3DLIVUS</strong> system comprises <strong>a counterbalanced arm</str
 </p>
 
 <p align="justify">
-<em>Note: The architecture of our robotic/mechatronic arm differs significantly from conventional industrial robots such as the <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer">KUKA LBR iiwa</a>. The arm was purposefully designed to accommodate the workflow of liver tumour ablation procedures. For instance, the 3DLIVUS system may need to be positioned on the side opposite the target liver, requiring an extended reach without interfering with the clinical setup. Adapting commercially available robotic arms to such constrained environments remains challenging.</em>
+Note: The architecture of our robotic/mechatronic arm differs significantly from conventional industrial robots such as the <a href="https://www.kuka.com/en-ca/products/robotics-systems/industrial-robots/lbr-iiwa" target="_blank" rel="noopener noreferrer">KUKA LBR iiwa</a>. The arm was purposefully designed to accommodate the workflow of liver tumour ablation procedures. For instance, the 3DLIVUS system may need to be positioned on the side opposite the target liver, requiring an extended reach without interfering with the clinical setup. Adapting commercially available robotic arms to such constrained environments remains challenging.
 </p>
 
 
@@ -96,12 +96,9 @@ The <strong>3DLIVUS</strong> system comprises <strong>a counterbalanced arm</str
 </div>
 
 <br>
-<p align="justify">
-For the development of 3DLIVUS system, not only the hardware design and maching, such as the counterbalanced arm and 3D US scanner, we have also developed a robust and efficient arm calibration approach, see the <a href="https://github.com/Xingorno/Robotic-arm-calibration-method-from-scratch" target="_blank" rel="noopener noreferrer">link</a>.  
-</p>
 
 <p align="justify">
-  Figure 2 shows our proposed framework for integrating 3D US into the standard clinical ablation workflow, which advanced the capabities of 3D US imaging in improving percutaneous tumour ablation, demonstrating the potential to expand the therapeutic role of 3D US in clinical interventions. In detail, the ablation workflow is enhanced with intra-procedural tumour coverage (project 2), tumour identification (project 3), multimodal visualization and instrument tracking (project 4).
+  Figure 2 illustrates the proposed framework for integrating 3D US into the standard clinical ablation workflow. This framework enhances the capabilities of 3D US imaging for improving percutaneous tumour ablation and demonstrates its potential to expand the therapeutic role of 3D US in clinical interventions. Specifically, the workflow is augmented with intra-procedural tumour coverage assessment (Project 2), tumour identification (Project 3), and multimodal visualization with instrument tracking (Project 4).
 </p>
 <div align="center">
   <img src="figs/3DLIVUS_integration_framework_black.png" alt="3DLIVUS frame" width="80%">
@@ -113,8 +110,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 ### How does 3DLIVUS acquire images during the procedure?
 
 <p align="justify">
-  The 3D US acquisition is fully automatic. During the procedure, the physician/sonographer first needs to place the conventional US probe on the target area of the patient. Then, the probe can be automatically driven by the 3D US scanner to acquire a sequence of 2D US images, which are used for 3D US reconstruction. The whole process (including reconstruction) takes around 7-12 seconds.
-</p>
+The 3D US acquisition process is fully automated. During the procedure, the physician or sonographer positions the conventional US probe over the target area, after which the 3D US scanner automatically drives the probe to capture a sequence of 2D images for 3D reconstruction. The entire process, including reconstruction, is completed within approximately 7–12 seconds. </p>
 
 <p align="center">
   <a href="https://youtu.be/NFdtQTTbtVk" target="_blank" rel="noopener noreferrer">
@@ -134,7 +130,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 <br>
 <p align="left">
-  This figure shows the acquired patient's 3D US images, demonstrating the 3DLIVUS system in action. The related structures, including hepatic vessels, kidney, gallbladder and tumour, and inserted needles can be well captured and visualized in our 3D US images. This achievement served as the critical foundation for investigating the downstream tasks related to percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, improving tumour identification and needle tracking, please see details in below.
+This figure presents a patient’s acquired 3D US images, demonstrating the 3DLIVUS system in action. Relevant anatomical structures—including hepatic vessels, kidney, gallbladder, tumour, and inserted needles—are clearly visualized in the reconstructed volume. This achievement provides a critical foundation for subsequent investigations in percutaneous liver tumour ablation, including intra-procedural tumour coverage assessment, enhanced tumour identification, and needle tracking (see details below).
 </p>
 
 ## Project 2: Intra-procedural Tumour Coverage Assessment
@@ -153,7 +149,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 ### Why improve intra-procedural tumour coverage assessment?
 
 <p align="justify">
-  In conventional US guidance, as shown in the left figure, the physician typically places a few landmarks on the in-plane 2D US image to estimate the required ablation zone size. Even though a 5 or 10 mm safety margin is commonly applied in clinical practice to reduce the risk of residual tumours, this process may still be insufficient to provide complete tumour coverage. In addition, to ensure safety, the physician must carefully examine multiple US views to avoid ablating critical structures, such as the colon, as shown in the right-hand image.
+In conventional US-guided ablation (left figure), the physician typically places a few landmarks on in-plane 2D US images to estimate the required ablation zone. Although a 5–10 mm safety margin is commonly applied in clinical practice to reduce the risk of residual tumours, this approach may still fail to ensure complete tumour coverage. Moreover, to maintain procedural safety, the physician must carefully review multiple US views to avoid ablating critical structures such as the colon (right figure).
 </p>
 
 
@@ -179,9 +175,7 @@ For the development of 3DLIVUS system, not only the hardware design and maching,
 
 ### 3D US-based Tumour Coverage Evaluation
 <p align="justify">
-To demonstrate that, we conducted a clinical trial from 2021 to 2022. In this trial, we collected data from 12 patients, including 8 cases treated with RFA, 4 cases with MWA. 
-As shown in this figure, we firstly manually segmented both the tumour and the needle in 3D US images. The ablation zone was then estimated based on the manufacturer’s guidelines. 
-Next, we calculated the surface distances between the tumour and the estimated ablation zone. To validate, we compared the results with clinical outcomes, which were obtained from follow-up CT/MRI images. As a result, in conventional 2D US, 9 out of 12 cases were predicted correctly. However, with our 3D US approach, the accuracy improved to 11 out of 12 cases. For the remaining case, the discrepancy was due to new disease progression, rather than a limitation of the 3D US-based estimation. Overall, these results highlight that our 3D US approach provided valuable and reliable information for all cases, demonstrating its potential to enhance tumour coverage assessment in ablation procedures.
+To evaluate the proposed approach, we conducted a clinical trial between 2021 and 2022, involving 12 patients—8 treated with RFA and 4 with MWA. As shown in this figure, both the tumour and needle were manually segmented in the 3D US images, and the ablation zone was estimated based on the manufacturer’s specifications. The surface distances between the tumour and the estimated ablation zone were then calculated and validated against follow-up CT/MRI outcomes. Using conventional 2D US, tumour coverage was correctly predicted in 9 of 12 cases, whereas our 3D US approach achieved 11 of 12 correct predictions. The remaining case discrepancy was attributed to new disease progression rather than limitations of the 3D US-based estimation. These findings demonstrate that the 3D US approach provides reliable and clinically valuable information for tumour coverage assessment during ablation procedures.
 </p>
 
 <br>
@@ -195,7 +189,7 @@ Next, we calculated the surface distances between the tumour and the estimated a
 ### 3D US-based Needle Adjustment (If required)
 
 <p align="justify">
-The next question is: is it possible to optimize those untreated tumours using 3D US during the procedure? To address that, we developed a novel margin uniformity approach to optimize the needle position. The top row shows the different clinical cases, which could happen during the procedure. For each case, our approach generates a 2D plot, as shown in the second row. This plot provides the information on how to adjust the needle.
+The next question is whether 3D US can be used intra-procedurally to optimize untreated tumour regions. To explore this, we developed a novel margin uniformity approach for needle position optimization. The top row illustrates various clinical scenarios that may occur during ablation, while the second row presents corresponding 2D plots generated by our method, indicating the necessary adjustments to improve needle placement.
 </p>
 <div align="center">
   <img src="figs/Needle adjustment.png" alt="3DLIVUS assessment" width="80%">

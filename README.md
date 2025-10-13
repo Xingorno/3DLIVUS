@@ -20,8 +20,8 @@ a { color: #00bfff; }
   Aaron Fenster, PhD
 </a> 
 <br>
-<a href="https://scholar.google.com/citations?user=9VIOS1wAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-  Robarts Research Institute, Western University
+<a>
+  Robarts Research Institute, Western University, Canada
 </a>
 </div>
 

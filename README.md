@@ -12,14 +12,9 @@ a { color: #00bfff; }
 <div align="center">
   <h1>3DLIVUS: 3D LIVer UltraSound</h1>
 
-<a href="https://www.robarts.ca/peterslab/" target="_blank" rel="noopener noreferrer">
-  Fenster Lab, Robarts Research Institute, Western University
+<a href="https://scholar.google.com/citations?user=9VIOS1wAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+  Robarts Research Institute, Western University
 </a>
-<br>
-<a href="https://www.robarts.ca/peterslab/" target="_blank" rel="noopener noreferrer">
-  VASST Lab, Robarts Research Institute, Western University
-</a>
-
 </div>
 
 ## Introudction

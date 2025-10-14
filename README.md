@@ -260,6 +260,12 @@ The idea of our proposed method is to divide the direct 2D US-to-CT or MRI regis
   <br>
   <a>Figure 11. Registration overview of 2D US-to-CT/MRI images</a>
 </div>
+<br>
+<div align="center">
+  <img src="figs/regi_workflow_updated_new.png" alt="registration" width="80%">
+  <br>
+  <a>Figure 12. Detailed registration overview of 2D US-to-CT/MRI images</a>
+</div>
 
 ### Clinical results
 Here are some results on humans.

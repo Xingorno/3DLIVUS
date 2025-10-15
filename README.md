@@ -20,6 +20,10 @@ a { color: #00bfff; }
   Derek W. Cool, PhD, MD; &nbsp; 
 </a> 
 
+<a href="https://www.robarts.ca/research/scientists/peters_terry.html" target="_blank" rel="noopener noreferrer">
+  Terry M. Peters, PhD; &nbsp; 
+</a>
+
 <a href="https://www.robarts.ca/research/scientists/fenster_aaron.html" target="_blank" rel="noopener noreferrer">
   Aaron Fenster, PhD
 </a>

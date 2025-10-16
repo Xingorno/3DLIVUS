@@ -10,7 +10,7 @@ a { color: #00bfff; }
 
 
 <div align="center">
-  <h1>3DLIVUS: <span style="color:#00b050;">3D</span> <span style="color:#00b050;">LIV</span>er <span style="color:#00b050;">U</span>ltra<span style="color:#00b050;">S</span>ound</h1>
+  <h1><span style="color:#00b050;">3DLIVUS</span>: <span style="color:#00b050;">3D</span> <span style="color:#00b050;">LIV</span>er <span style="color:#00b050;">U</span>ltra<span style="color:#00b050;">S</span>ound</h1>
 <p align="center">
 <a href="https://scholar.google.com/citations?user=pPSHM1kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
   Shuwei Xing, PhD;&nbsp; 
